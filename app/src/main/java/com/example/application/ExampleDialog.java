@@ -17,6 +17,7 @@ import androidx.appcompat.app.AppCompatDialogFragment;
 
 public class ExampleDialog extends AppCompatActivity {
 
+    //fucked up
     Button add;
     AlertDialog dialog;
     LinearLayout layout;
