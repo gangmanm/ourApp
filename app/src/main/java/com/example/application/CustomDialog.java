@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
-
+//ㅇㄹㄹㄷㄹ
 class CustomDialog extends Dialog implements View.OnClickListener{
 
     private Button positiveButton;
