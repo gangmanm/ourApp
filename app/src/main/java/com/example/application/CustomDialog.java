@@ -13,7 +13,7 @@ class CustomDialog extends Dialog implements View.OnClickListener{
     private Button negativeButton;
     private EditText editName;
     private Context context;
-/.jhkjkj
+
     private CustomDialogListener customDialogListener;
 
     public CustomDialog(Context context) {
