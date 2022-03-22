@@ -14,6 +14,7 @@ class CustomDialog extends Dialog implements View.OnClickListener{
     private EditText editName;
     private Context context;
  // 윤정이 바보....
+    //민경이 감자나 쪄먹어
     private CustomDialogListener customDialogListener;
 
     public CustomDialog(Context context) {
