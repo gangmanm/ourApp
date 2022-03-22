@@ -33,6 +33,6 @@ public class CreateNoteActivity extends AppCompatActivity {
             public void onClick(View v){
                 Log.v("EditText", NoteTitle.getText().toString());
             }
-        });
+        });//우짤래미
     }
 }
