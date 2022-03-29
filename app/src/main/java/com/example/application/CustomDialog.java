@@ -8,7 +8,7 @@ import android.widget.Button;
 import android.widget.EditText;
 //ㅇㄹㄹㄷㄹ
 class CustomDialog extends Dialog implements View.OnClickListener{
-
+ // 안녕 경민아]
     private Button positiveButton;
     private Button negativeButton;
     private EditText editName;
